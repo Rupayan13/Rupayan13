@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rupayan Dirghangi</h1>
 <h3 align="center">Want to be a full stack developer and also explore all the fields of software development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupayan13&label=Profile%20views&color=0e75b6&style=flat" alt="rupayan13" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
