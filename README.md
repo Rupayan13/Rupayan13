@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rupayan Dirghangi</h1>
 <h3 align="center">Want to be a full stack developer and also explore all the fields of software development.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupayan13&label=Profile%20views&color=0e75b6&style=flat" alt="rupayan13" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupayan13" alt="rupayan13" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
@@ -24,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupayan13&show_icons=true&locale=en" alt="rupayan13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupayan13&" alt="rupayan13" /></p>
+
