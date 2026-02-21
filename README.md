@@ -96,25 +96,7 @@ Aspiring Full Stack Developer | Exploring all fields of Software Development
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupayan13&show_icons=true&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=rupayan13&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupayan13&layout=compact&hide_border=true&cache_seconds=1800" />
-</p>
-
----
-
-✨ *Currently building MERN projects and expanding skills in Cloud, DevOps, and Python.*
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rupayan13&icon=0&color=0" />
 </p>
 
 <!-- Proudly created with GPRM -->
